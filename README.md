@@ -1,6 +1,4 @@
 <h1 align="center"> Habits 
-  <img src="./assets/Cover(1).jpg" alt="NLW Setup logo">
-  <br><br>
 </h1>
 
 <p align="center">
@@ -17,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Habits" src="./assets/cover(1).jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
