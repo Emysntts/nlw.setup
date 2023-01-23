@@ -1,5 +1,5 @@
 <h1 align="center"> Habits 
-  <img src=./assets/nlw-setup-logo.svg alt= "NLW Setup logo>
+  <img src="./assets/Cover(1).jpg" alt="NLW Setup logo">
   <br><br>
 </h1>
 
